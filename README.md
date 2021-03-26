@@ -1,2 +1,3 @@
 # top.kagurayayoi.learn.Android
-Android开发学习记录
+本人的Android开发学习记录
+详见Project/Android_Learn
