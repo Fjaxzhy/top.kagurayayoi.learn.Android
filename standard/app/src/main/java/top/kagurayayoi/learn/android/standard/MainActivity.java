@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         Log.e("MainActivity",this.toString());
         // E/MainActivity: top.kagurayayoi.learn.android.standard.MainActivity
+        // standard模式会一直创建新的活动实例
         setContentView(R.layout.activity_main);
         Button button = findViewById(R.id.button1);
         button.setOnClickListener(new View.OnClickListener() {
